@@ -47,9 +47,6 @@ This project implements a galaxy morphology classification system using the Visi
 - Incorporate advanced augmentation techniques (e.g., CutMix, MixUp).
 - Extend the dataset with additional galaxy images for better generalization.
 
-## Contact
-For inquiries, please reach out to [Your Name] at [Your Email].
-
 ---
 
 *This project provides a scalable framework for galaxy morphology classification, combining state-of-the-art deep learning with comprehensive visualizations for astronomical research.*
