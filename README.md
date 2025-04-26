@@ -38,9 +38,9 @@ This project implements a galaxy morphology classification system using the Visi
 
 ## Visualizations
 - **Sample Images**: Displays example galaxies for each class.
+  ![classes](https://i.postimg.cc/WpQgvq6z/Untitled.png)
 - **Confusion Matrix**: Visualizes model performance, identifying misclassification patterns.
-- ![classes](https://i.postimg.cc/WpQgvq6z/Untitled.png)
-- ![Confusion_Matrix](https://i.postimg.cc/CLQtYNrD/Untitlaed.png)
+  ![Confusion_Matrix](https://i.postimg.cc/CLQtYNrD/Untitlaed.png)
 
 ## Future Work
 - Experiment with larger ViT variants (e.g., ViT-L/16) for improved accuracy.
