@@ -37,10 +37,10 @@ This project implements a galaxy morphology classification system using the Visi
 4. Monitor training progress and visualizations via WandB integration.
 
 ## Visualizations
-- **Class Distribution Plot**: Highlights dataset imbalance across galaxy types.
 - **Sample Images**: Displays example galaxies for each class.
 - **Confusion Matrix**: Visualizes model performance, identifying misclassification patterns.
-- **Training Curves**: Plots loss and accuracy over epochs, logged via WandB.
+- ![classes](https://i.postimg.cc/WpQgvq6z/Untitled.png)
+- ![Confusion_Matrix](https://i.postimg.cc/CLQtYNrD/Untitlaed.png)
 
 ## Future Work
 - Experiment with larger ViT variants (e.g., ViT-L/16) for improved accuracy.
